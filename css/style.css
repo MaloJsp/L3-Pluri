@@ -1,0 +1,35 @@
+html {
+  font-family: Monotype Corsiva, cursive;
+  background-color: rgba(93, 250, 172, 0.349);
+  color: rgb(255, 127, 0);
+}
+
+body {
+    color: black;
+  }
+
+h1 {
+    font-style: oblique;
+    font-weight: bolder;
+    text-align: center;
+    color:blueviolet;
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+}
+
+a {
+  color:aqua;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(4, 100, 4);
+  text-decoration: underline;
+}
+
+table {
+  border-style: dotted;
+}
