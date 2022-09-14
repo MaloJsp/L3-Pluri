@@ -4,6 +4,12 @@ html {
   color: rgb(255, 127, 0);
 }
 
+#tablediv {
+  width:90%;
+  min-width:800px;
+  max-width:1500px;
+}
+
 body {
     color: black;
   }
