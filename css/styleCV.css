@@ -1,0 +1,15 @@
+html {
+    font-family: Monotype Corsiva, cursive;
+    background-color: rgba(93, 250, 172, 0.349);
+    color: rgb(206, 176, 9);
+}
+
+table, td {
+    width: 100%;
+    border-radius: 10px 0 40px 0;
+}
+  
+img {
+    float: right; 
+    margin-top:-70px;
+}
