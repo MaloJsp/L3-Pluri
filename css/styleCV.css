@@ -1,15 +1,19 @@
-html {
-    font-family: Monotype Corsiva, cursive;
-    background-color: rgba(93, 250, 172, 0.349);
-    color: rgb(206, 176, 9);
+body {
+    background-color: bisque;
 }
 
-table, td {
-    width: 100%;
-    border-radius: 10px 0 40px 0;
+h2 {
+    color: white;
+    background-color: rgb(255, 163, 126);
 }
-  
-img {
-    float: right; 
-    margin-top:-70px;
+
+table {
+    height: 54px;
+    width: 100%;
+    border-collapse: collapse;
+    border-style: solid;
+}
+
+li {
+    list-style-image: url("../img/puce1.jpg");
 }
